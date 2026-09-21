@@ -1,4 +1,3 @@
-
 <h1 align="center">¡Hola, bienvenido a mi perfil! 👋</h1>
 
 <p align="center">
@@ -32,7 +31,7 @@ Soy Ingeniero de Sistemas con experiencia en infraestructura de TI, administraci
 ---
 
 ### 🚀 Soluciones y Sistemas de Gestión (Comerciales)
-> *Nota: Estos sistemas forman parte de nuestro catálogo de soluciones especializadas para negocios. Para proteger la propiedad intelectual, los códigos fuente se mantienen en repositorios privados.*
+> *Nota: Estos sistemas forman parte de nuestro catálogo de soluciones especializadas para negocios bajo la marca **Solvix**. Para proteger la propiedad intelectual, los códigos fuente se mantienen en repositorios privados.*
 
 * 🎨 **SistemaTatuajes:** Aplicación web integral para la gestión de citas, control operativo y seguimiento de clientes en estudios de tatuaje.
 * 📚 **E-Learning Platform:** Plataforma educativa interactiva desarrollada con Flask y MySQL, con gestión de roles, filtros por áreas y generación de certificados en PDF.
@@ -42,17 +41,8 @@ Soy Ingeniero de Sistemas con experiencia en infraestructura de TI, administraci
 
 ---
 
-### 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Armando-eng27&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armando-eng27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 ¿Conectamos?
 * **GitHub:** [@Armando-eng27](https://github.com/Armando-eng27)
 * **Agencia:** Solvix
 
-*¿Tienes alguna propuesta, proyecto o consulta? ¡No dudes en contactarme!*
+*¿Tienes alguna propuesta, proyecto o consulta? ¡No dudes en contactarme directamente!*
