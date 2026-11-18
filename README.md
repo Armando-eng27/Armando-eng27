@@ -7,10 +7,10 @@
   <a href="https://armando-eng27.github.io/ZH_DevLab/" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio_Web-ZH_DevLab-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio ZH DevLab"/>
   </a>
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="mailto:armandozh_tics@hotmail.com">
     <img src="https://img.shields.io/badge/Contacto-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/armando-zarhdz-27-ing/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
