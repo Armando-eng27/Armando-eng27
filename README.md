@@ -7,10 +7,10 @@
   <a href="https://armando-eng27.github.io/ZH_DevLab/" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio_Web-ZH_DevLab-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio ZH DevLab"/>
   </a>
-  <a href="mailto:armandozh_tics@hotmail.com">
+  <a href="mailto:tu-correo@ejemplo.com">
     <img src="https://img.shields.io/badge/Contacto-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/armando-zarhdz-27-ing/" target="_blank">
+  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -21,9 +21,9 @@
 
 Ingeniero en Sistemas y desarrollador enfocado en transformar procesos manuales en **software empresarial robusto, escalable y fácil de usar**. A través de mi estudio independiente **ZH DevLab**, diseño y despliego soluciones web y de escritorio a la medida para negocios reales, combinando desarrollo backend en Python con soporte técnico e infraestructura TI.
 
-- 🚀 **Especialidad:** Desarrollo Backend (Python/Flask), Sistemas POS, Automatización y Bases de Datos.
-- 🛠️ **Enfoque actual:** Agentes de IA locales con Ollama, extracción de datos con OCR (OpenCV + Tesseract) y arquitecturas SaaS multi-sucursal.
-- 🔐 **Seguridad & Despliegue:** Implementación de licenciamiento ligado a hardware (UUID), servidores Linux y despliegue en la nube.
+- 🚀 **Especialidad:** Desarrollo Backend (Python/Flask), Sistemas POS, Control de Inventarios y Bases de Datos.
+- 🏢 **Experiencia:** +13 soluciones de software desarrolladas e implementadas para comercios, clínicas, restaurantes y entornos corporativos.
+- 🔐 **Seguridad & Despliegue:** Licenciamiento ligado a hardware (UUID), generación de ejecutables `.exe`, servidores Linux y despliegue en la nube.
 
 ---
 
@@ -44,44 +44,33 @@ Ingeniero en Sistemas y desarrollador enfocado en transformar procesos manuales 
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-Desktop_GUI-2B5B84?style=flat-square&logo=python&logoColor=white)
 
-#### **IA, Visión Artificial & Herramientas**
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=flat-square&logo=google&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama_LLM-000000?style=flat-square&logo=ollama&logoColor=white)
+#### **Infraestructura & Herramientas**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Active_Directory-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ---
 
-### 🚀 Proyectos Destacados (ZH DevLab)
+### 🚀 Proyectos en Producción y Portafolio (ZH DevLab)
 
-Soluciones reales desarrolladas para clientes comerciales y entornos operativos *(código fuente bajo repositorios privados por propiedad comercial, disponibles para demostración)*:
+Soluciones reales desarrolladas e implementadas para clientes comerciales y control operativo *(repositorios privados por propiedad comercial, disponibles para demostración)*:
 
 | Proyecto | Descripción | Tecnologías Clave |
 | :--- | :--- | :--- |
 | **🎨 Adixion Tattoo Studio** | Sistema integral web en producción para estudios de tatuajes y perforaciones. Gestión multi-sucursal, control de vitrina, deducción de insumos vs. venta y agenda de citas. | `Python` `Flask` `SQLite` `Bootstrap 5` |
-| **🍔 Mondo Felice SaaS** | Plataforma gastronómica multi-tenant con roles (Admin, Caja, Cocina), seguimiento de pedidos en vivo para clientes, personalización de marca y reportes gráficos. | `Flask` `SQLAlchemy` `Chart.js` `JS` |
-| **🎁 Punto de Venta & Inventario** | Ejecutable de escritorio para comercios minoristas con control de stock, corte de caja y protección antipiratería vinculada al UUID de la tarjeta madre. | `Python` `CustomTkinter` `SQLite` `WMI` |
+| **🍔 Mondo Felice SaaS** | Plataforma gastronómica multi-tenant con roles (Admin, Caja, Cocina), seguimiento de pedidos en vivo para clientes, personalización de marca y analíticas de ventas. | `Flask` `SQLAlchemy` `Chart.js` `JS` |
+| **🎁 Tienda Regalos POS** | Ejecutable de escritorio para comercios minoristas con control de stock, corte de caja y protección antipiratería vinculada al UUID de la tarjeta madre. | `Python` `CustomTkinter` `SQLite` `WMI` |
 | **🍦 Paletería POS** | Sistema de punto de venta con descuento automático de inventario basado en recetas/ingredientes y generación de tickets térmicos en PDF. | `Flask` `SQLAlchemy` `ReportLab` |
-| **📄 Doc Processor OCR** | Motor local de extracción automática de folios, fechas y campos estructurados a partir de órdenes de servicio y facturas escaneadas. | `Python` `OpenCV` `Tesseract OCR` |
-| **🤖 Laboratorio Agente IA** | Asistente conversacional local capaz de interpretar lenguaje natural y ejecutar consultas SQL seguras de solo lectura sobre inventarios. | `Python` `Ollama` `SQLite` |
+| **💇‍♀️ Sistema Estética & Spa** | Gestión de citas con flujo de estados, autenticación por PIN/usuario, control de inventario y reportes de productividad por estilista. | `Python` `Flask` `SQLite` `Bootstrap 5` |
+| **🏷️ Control Oficina & Activos** | Sistema de trazabilidad de equipos con bitácora de entradas/salidas, carga fotográfica, generación de etiquetas QR imprimibles y exportación a Excel. | `Python` `Flask` `QR Code` `OpenPyXL` |
 
 ---
 
-### 📊 Actividad y Estadísticas en GitHub
+### 🧩 Lo que aporto a cada desarrollo
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Armando-eng27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armando-eng27&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Armando-eng27&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  <sub>Desarrollado con 💻 y ☕ por <b>Armando Zarate — ZH DevLab</b></sub>
-</div>
+```text
+├── ⚙️ Backend & Lógica de Negocio  -> APIs REST, autenticación por roles, cálculos financieros y reportes.
+├── 🗄️ Arquitectura de Datos        -> Modelado relacional limpio en MySQL y SQLite con respaldos seguros.
+├── 🖥️ Interfaces Modernas          -> Dashboards responsivos (Dark/Light mode) y apps de escritorio .exe.
+└── 🛡️ Seguridad & Soporte          -> Protección por hardware UUID, despliegue en nube y soporte TI integral.
