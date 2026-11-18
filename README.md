@@ -1,64 +1,87 @@
-<h1 align="center">¡Hola, bienvenido a mi perfil! 👋</h1>
+<!-- HEADER / BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Armando%20Zarate&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Systems%20Engineer%20%7C%20ZH%20DevLab&descAlignY=58&descSize=18" width="100%" />
+</div>
 
 <p align="center">
-  <b>Ingeniero de Sistemas</b> | Lead Software Developer & Founder en <b>ZH DevLab</b>
-</p>
-
-<p align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
-  <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
-  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"></a>
+  <a href="https://armando-eng27.github.io/ZH_DevLab/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio_Web-ZH_DevLab-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio ZH DevLab"/>
+  </a>
+  <a href="mailto:tu-correo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Contacto-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre Mí
-Soy Ingeniero de Sistemas y Desarrollador de Software enfocado en la creación de arquitecturas robustas, plataformas web SaaS multi-inquilino, sistemas de punto de venta (POS) y soluciones de automatización operativa. A través de **ZH DevLab**, diseño e implemento software a la medida optimizado para rendimiento, seguridad y control de negocio.
+### 👨‍💻 Sobre mí
+
+Ingeniero en Sistemas y desarrollador enfocado en transformar procesos manuales en **software empresarial robusto, escalable y fácil de usar**. A través de mi estudio independiente **ZH DevLab**, diseño y despliego soluciones web y de escritorio a la medida para negocios reales, combinando desarrollo backend en Python con soporte técnico e infraestructura TI.
+
+- 🚀 **Especialidad:** Desarrollo Backend (Python/Flask), Sistemas POS, Automatización y Bases de Datos.
+- 🛠️ **Enfoque actual:** Agentes de IA locales con Ollama, extracción de datos con OCR (OpenCV + Tesseract) y arquitecturas SaaS multi-sucursal.
+- 🔐 **Seguridad & Despliegue:** Implementación de licenciamiento ligado a hardware (UUID), servidores Linux y despliegue en la nube.
 
 ---
 
 ### 🛠️ Stack Tecnológico
 
-- **Lenguajes & Backend:** Python, Flask, REST APIs, SQLAlchemy.
-- **Bases de Datos & Persistencia:** MySQL, SQLite, Modelado Relacional.
-- **Desarrollo Desktop & GUI:** CustomTkinter, Python GUI Development.
-- **Frontend & Estilos:** HTML5, CSS3, JavaScript, Bootstrap 5, Tailwind CSS.
-- **Seguridad & Integraciones:** Licenciamiento por Hardware ID (Motherboard Serial), Lectura de Códigos QR, OCR & Visión por Computadora, Generación de Documentación PDF (OpenPyXL, ReportLab, PyMuPDF).
-- **Herramientas & Despliegue:** Git, GitHub, PyCharm, ngrok, PythonAnywhere.
+#### **Backend & Bases de Datos**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+#### **Frontend & Aplicaciones de Escritorio**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-Desktop_GUI-2B5B84?style=flat-square&logo=python&logoColor=white)
+
+#### **IA, Visión Artificial & Herramientas**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=flat-square&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama_LLM-000000?style=flat-square&logo=ollama&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-### 🚀 Catálogo de Sistemas & Proyectos (ZH DevLab)
-> *Nota: Estos desarrollos forman parte de nuestro catálogo de soluciones de software en **ZH DevLab**. Para proteger la propiedad intelectual y licencias comerciales, los códigos fuente se mantienen en repositorios privados.*
+### 🚀 Proyectos Destacados (ZH DevLab)
 
-#### 🌐 Plataformas Web & SaaS
-- 🍕 **Mondo Felice:** Plataforma SaaS multi-inquilino para gestión restaurantera con personalización de marca por cliente, panel administrativo y pantallas en tiempo real para caja y cocina.
-- 🎓 **E-Learning Empresa:** Plataforma de capacitación corporativa con segregación de contenidos por áreas, seguimiento de avance y emisión automatizada de certificados PDF.
-- 🎟️ **Sistema de Tickets (Help Desk):** Plataforma web para el control de incidencias técnicas, asignación por prioridades y seguimiento de SLA de respuesta.
-- 🖋️ **Adixion Tattoo Studio:** Sistema web multisucursal para el agendamiento de citas, inventario de insumos y control de comisiones por artista.
+Soluciones reales desarrolladas para clientes comerciales y entornos operativos *(código fuente bajo repositorios privados por propiedad comercial, disponibles para demostración)*:
 
-#### 🖥️ Aplicaciones Desktop & Puntos de Venta (POS)
-- 🎁 **Tienda Regalos POS:** Aplicación de escritorio con módulo de seguridad y validación de licencias vinculadas a la placa madre (Motherboard Serial ID).
-- 🍨 **Paletería POS:** Punto de venta especializado con lógica de deducción automática de insumos e ingredientes basada en recetas por producto.
-- 📚 **Sistema Papelería POS:** Sistema de cobro comercial con procesamiento de pagos mixtos, impresión de recibos y corte de caja diario.
-- 🛠️ **Sistema Taller Automotriz:** Software de gestión de órdenes de servicio automotriz, asignación de mecánicos y seguimiento público de estatus para clientes.
-- 💇‍♀️ **Sistema Estética:** Control integral de agendamiento de citas, comisiones por estilista e inventario de productos cosméticos.
-
-#### ⚡ Control Operativo & Seguridad
-- 📱 **Checador Ingenieros:** Sistema de registro de accesos y asistencias mediante escaneo de códigos QR integrados con base de datos MySQL.
-- 🏢 **Seprocesa Control:** Sistema para el monitoreo de flujos operativos empresariales y trazabilidad de procesos internos.
-- 📁 **Control Oficina:** Aplicación administrativa para la gestión de recursos internos y bitácoras de auditoría de usuarios.
-- 🪪 **Personal Autorizado:** Directorio de seguridad centralizado para validación inmediata de permisos y credenciales de acceso restringido.
+| Proyecto | Descripción | Tecnologías Clave |
+| :--- | :--- | :--- |
+| **🎨 Adixion Tattoo Studio** | Sistema integral web en producción para estudios de tatuajes y perforaciones. Gestión multi-sucursal, control de vitrina, deducción de insumos vs. venta y agenda de citas. | `Python` `Flask` `SQLite` `Bootstrap 5` |
+| **🍔 Mondo Felice SaaS** | Plataforma gastronómica multi-tenant con roles (Admin, Caja, Cocina), seguimiento de pedidos en vivo para clientes, personalización de marca y reportes gráficos. | `Flask` `SQLAlchemy` `Chart.js` `JS` |
+| **🎁 Punto de Venta & Inventario** | Ejecutable de escritorio para comercios minoristas con control de stock, corte de caja y protección antipiratería vinculada al UUID de la tarjeta madre. | `Python` `CustomTkinter` `SQLite` `WMI` |
+| **🍦 Paletería POS** | Sistema de punto de venta con descuento automático de inventario basado en recetas/ingredientes y generación de tickets térmicos en PDF. | `Flask` `SQLAlchemy` `ReportLab` |
+| **📄 Doc Processor OCR** | Motor local de extracción automática de folios, fechas y campos estructurados a partir de órdenes de servicio y facturas escaneadas. | `Python` `OpenCV` `Tesseract OCR` |
+| **🤖 Laboratorio Agente IA** | Asistente conversacional local capaz de interpretar lenguaje natural y ejecutar consultas SQL seguras de solo lectura sobre inventarios. | `Python` `Ollama` `SQLite` |
 
 ---
 
-### 📫 Conecta Conmigo
-- **GitHub:** [@Armando-eng27](https://github.com/Armando-eng27)
-- **Marca / Estudio:** ZH DevLab
+### 📊 Actividad y Estadísticas en GitHub
 
-*¿Tienes alguna propuesta o consulta sobre desarrollo de software a la medida? ¡No dudes en contactarme!*
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Armando-eng27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armando-eng27&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Armando-eng27&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Desarrollado con 💻 y ☕ por <b>Armando Zarate — ZH DevLab</b></sub>
+</div>
